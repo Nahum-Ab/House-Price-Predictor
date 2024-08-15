@@ -21,7 +21,7 @@ The project is structured as follows:
     _Evaluation_: Assess the model's performance using MSE and visualize the results.
 
 **Technologies Used:**
-    [_Python
-    ,Pandas
-    ,Scikit-learn
-    ,Matplotlib (for visualizations)_]
+    [ _Python,
+    Pandas,
+    Scikit-learn,
+    Matplotlib (for visualizations)_ ]
