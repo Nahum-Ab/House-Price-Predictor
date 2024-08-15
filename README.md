@@ -9,9 +9,9 @@
 The dataset used for this project is sourced from the [Kaggle House Prices: Advanced Regression Techniques competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data). It contains various features related to house characteristics and their corresponding sale prices.
 
 **Key Features:**
-    _GrLivArea_: Above grade (ground) living area square feet.
-    _BedroomAbvGr_: Number of bedrooms above ground.
-    _FullBath_: Number of full bathrooms.
+    _GrLivArea_ (Above grade (ground) living area square feet),
+    _BedroomAbvGr_ (Number of bedrooms above ground),
+    _FullBath_ (Number of full bathrooms)
 
 **Implementation:**
 The project is structured as follows:
