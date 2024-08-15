@@ -1,18 +1,18 @@
 # PRODIGY_ML_01
 
-**Project Overview**
- => This project implements a linear regression model to predict house prices based on key features such as square footage, the number of 
+**Project Overview: **
+    This project implements a linear regression model to predict house prices based on key features such as square footage, the number of 
     bedrooms, and the number of bathrooms. Utilizing a dataset from Kaggle, the model aims to provide insights into the factors 
     influencing housing prices and demonstrate the application of linear regression in real-world scenarios.
 
-**Dataset**
+**Dataset:**
 The dataset used for this project is sourced from the [Kaggle House Prices: Advanced Regression Techniques competition](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data). It contains various features related to house characteristics and their corresponding sale prices.
 
 **Key Features:**
     _GrLivArea_: Above grade (ground) living area square feet.
     _BedroomAbvGr_: Number of bedrooms above ground.
     _FullBath_: Number of full bathrooms.
-**Objectives**
+**Objectives:/n**
    (*) To build a predictive model that accurately estimates house prices.
    (*) To explore the relationship between house features and their prices.
    (*) To evaluate the model's performance using metrics like Mean Squared Error (MSE).
